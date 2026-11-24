@@ -1,12 +1,13 @@
-C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.AssemblyInfoInputs.cache
-C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.AssemblyInfo.cs
-C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.csproj.CoreCompileInputs.cache
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\bin\Debug\net10.0\MediaNotas.App.exe
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\bin\Debug\net10.0\MediaNotas.App.deps.json
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\bin\Debug\net10.0\MediaNotas.App.runtimeconfig.json
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\bin\Debug\net10.0\MediaNotas.App.dll
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\bin\Debug\net10.0\MediaNotas.App.pdb
+C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.AssemblyInfoInputs.cache
+C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.AssemblyInfo.cs
+C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.csproj.CoreCompileInputs.cache
+C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.sourcelink.json
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.dll
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\refint\MediaNotas.App.dll
 C:\Users\wcc_devs\Desktop\Atividade01\MediaNotas\MediaNotas.App\obj\Debug\net10.0\MediaNotas.App.pdb
